@@ -1,6 +1,5 @@
 # Ble-Manager
-An application built for the article "Using react-native-BLE-manager in a mobile application"
-
+An application built for test ReactNative BLE module
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
